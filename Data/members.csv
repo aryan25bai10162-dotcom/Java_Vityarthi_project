@@ -1,0 +1,14 @@
+memberId,name,email,category
+S001,Aditi Sharma,aditi.sharma@example.com,STUDENT
+S002,Rahul Mehta,rahul.mehta@example.com,STUDENT
+S003,Priya Singh,priya.singh@example.com,STUDENT
+S004,Karan Verma,karan.verma@example.com,STUDENT
+S005,Sneha Patel,sneha.patel@example.com,STUDENT
+S006,Arjun Nair,arjun.nair@example.com,STUDENT
+S007,Neha Gupta,neha.gupta@example.com,STUDENT
+S008,Vikram Rao,vikram.rao@example.com,STUDENT
+F001,Dr. R. Verma,rverma@example.com,FACULTY
+F002,Dr. Priya Nair,priya.nair@example.com,FACULTY
+F003,Dr. Suresh Kumar,suresh.kumar@example.com,FACULTY
+F004,Dr. Anjali Desai,anjali.desai@example.com,FACULTY
+F005,Dr. Mohammed Ali,mohammed.ali@example.com,FACULTY
