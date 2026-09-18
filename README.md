@@ -128,16 +128,7 @@ Manual test flow to verify core functionality:
 6. Exit with option 0, restart the app, and choose option 2 again to confirm
    the catalog state was persisted correctly.
 
-*(Optional extension: add JUnit test classes under a `test/` folder to
-automate the fine-calculation and borrow-limit logic — this satisfies the
-"unit tests" expectation in the grading rubric if you want to go further.)*
 
-## Screenshots
-
-_Add screenshots of the running console menu, a successful borrow/return,
-and the overdue report here before submission._
-
-## Future Enhancements
 
 - Migrate persistence to a database (JDBC + MySQL) instead of file serialization
 - Add a book reservation queue for high-demand titles
